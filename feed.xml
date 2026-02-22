@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Empower Your Vote with Indy's Campaign</title>
-    <link>https://indyscampaign.pages.dev</link>
+    <link>https://www.indyscampaign.org</link>
     <description>Latest posts from Empower Your Vote with Indy's Campaign</description>
     <language>en-us</language>
     <lastBuildDate>2026-02-21</lastBuildDate>
-    <atom:link href="https://indyscampaign.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.indyscampaign.org/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Civic Engagement Guide for Indianapolis</title>
-      <link>https://indyscampaign.pages.dev/posts/civic-engagement-guide-indy/</link>
+      <link>https://www.indyscampaign.org/posts/civic-engagement-guide-indy/</link>
       <description>How to make your voice heard in Indianapolis governance.</description>
       <pubDate>2026-02-21</pubDate>
     </item>
     <item>
       <title>Neighborhood Revitalization in Indianapolis</title>
-      <link>https://indyscampaign.pages.dev/posts/neighborhood-revitalization-indianapolis/</link>
+      <link>https://www.indyscampaign.org/posts/neighborhood-revitalization-indianapolis/</link>
       <description>How organized communities are transforming Indianapolis neighborhoods.</description>
       <pubDate>2026-02-21</pubDate>
     </item>
     <item>
       <title>The Foundations of Effective Civic Engagement</title>
-      <link>https://indyscampaign.pages.dev/posts/the-foundations-of-effective-civic-engagement/</link>
+      <link>https://www.indyscampaign.org/posts/the-foundations-of-effective-civic-engagement/</link>
       <description>The Foundations of Effective Civic Engagement — an in-depth exploration with evidence-based insights.</description>
       <pubDate>2026-02-21</pubDate>
     </item>
